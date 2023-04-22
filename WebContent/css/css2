@@ -1,0 +1,51 @@
+.navbar{
+    background-color: #563d7c !important;    
+}
+
+body {
+  background-image: url('../img/boy.jpg') !important;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+
+.ch{
+margin-top: 10vh;
+  max-height: 600px;
+  
+}
+.table-wrap {
+  height: 600px;
+  overflow-y: auto;
+  
+}
+table th {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+.navbar-brand {
+    color: aliceblue;
+}
+.nav-link{
+ color: aliceblue;
+}
+@media (min-width: 1025px) {
+.h-custom {
+height: 100vh !important;
+}
+.py-6{
+	    margin-bottom: 6px;
+}
+.py-13{
+    margin-top: 13px !important;
+
+}
+.nnn{
+border-left: double;
+}
+ div{
+        text-align: center;
+       
+      }
+}
